@@ -15,6 +15,9 @@ nanoUART-wl是实验室推出的无线串口工具，即插即用，无需驱动
 ![usb_cdc_device](https://github.com/wuxx/nanoUART-wl/blob/master/doc/usb_cdc_device.png)  
 同时PC中会出现一个名为nanoUART-wl的虚拟U盘，U盘内为产品相关的资料链接，虚拟U盘亦可用于无线串口本身的固件升级。  
 ![disk](https://github.com/wuxx/nanoUART-wl/blob/master/doc/disk.png)
+## 接线说明
+一般只需连接三根线，GND，TX，RX，注意发送和接收均是针对板子自身而言，例如接收机上标记为TX的引脚，说明是接收机发送，需要接目标板的串口接收。  
+
 ## 建立无线连接
 发射机和接收机上电之后，均会开始蓝灯闪烁，当蓝灯由闪烁变为常亮后，说明无线连接建立，此时可开始使用无线串口  
 ## 打开串口工具
