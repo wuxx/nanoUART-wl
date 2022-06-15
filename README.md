@@ -1,3 +1,4 @@
+[中文](./README.md) [English](./README_en.md)
 # nanoUART-wl 用户手册
 * [产品介绍](#产品介绍) 
 * [使用说明](#使用说明)
@@ -7,7 +8,8 @@
 	
 # 产品介绍
 nanoUART-wl是实验室推出的无线串口工具，即插即用，无需驱动，双向通信，最高可支持460800波特率输出，对于某些调试场景如目标始终处于移动状态或者位于高处等，可有效提高开发效率  
-![screenshot](https://github.com/wuxx/nanoUART-wl/blob/master/doc/nanoUART-wl.jpg)
+![screenshot](https://github.com/wuxx/nanoUART-wl/blob/master/doc/nanoUART-wl-top.jpg)
+![screenshot](https://github.com/wuxx/nanoUART-wl/blob/master/doc/nanoUART-wl-bottom.jpg)
 
 # 使用说明
 无线串口分为发射机和接收机，将发射机插入PC中，接收机则和目标板连接。 
