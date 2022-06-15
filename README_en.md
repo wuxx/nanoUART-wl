@@ -8,8 +8,11 @@
 	
 # introduction
 nanoUART-wl is a wireless serial port tool made by MuseLab. It is plug and play, full duplex communication, and can support up to 460800 baudrate. For some debugging scenarios, such as the target is always in a moving state or at a high place, it can effectively improve the development efficiency
-![screenshot](https://github.com/wuxx/nanoUART-wl/blob/master/doc/nanoUART-wl-top.jpg)
-![screenshot](https://github.com/wuxx/nanoUART-wl/blob/master/doc/nanoUART-wl-bottom.jpg)
+<div align=center>
+<img src="https://github.com/wuxx/nanoUART-wl/blob/master/doc/nanoUART-wl-top.jpg" width = "500" alt="" align=center />
+<img src="https://github.com/wuxx/nanoUART-wl/blob/master/doc/nanoUART-wl-bottom.jpg" width = "500" alt="" align=center />
+</div>
+
 
 
 # How to Use
